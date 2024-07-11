@@ -1,6 +1,8 @@
 ## global-warming-index
 To remind human being to act to unimaginable future if global temperature increase to 2 degree Celcius.
 
+Refs: https://www.globalwarmingindex.org
+
 Reqs:
 - Arduino Uno/Pro Mini/Nano/Attiny85
 - Resistor 10k Ohm
